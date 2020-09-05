@@ -1,1 +1,2 @@
-print('Hello, world!')
+a = [1, 2, 3]
+print(a)
